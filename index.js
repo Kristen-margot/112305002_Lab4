@@ -8,7 +8,7 @@ function playSound(key) {
             new Audio("sounds/crash.mp3").play();
             break;
         case "a":
-            new Audio("sounds/kick.mp3").play();
+            new Audio("sounds/kick-bass.mp3").play();
             break;
         case "s":
             new Audio("sounds/snare.mp3").play();
